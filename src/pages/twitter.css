@@ -1,0 +1,10 @@
+.tweet{
+    width: 98%;
+}
+
+@media screen and (max-width: 600px) {
+  .tweet{
+    width:fit-content;
+   margin-left: 30px;
+  }
+  }

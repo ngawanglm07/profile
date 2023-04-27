@@ -1,0 +1,31 @@
+.skill {
+    margin-right: 30px;
+    max-width: 400px;
+    text-align: left;
+  }
+  
+  .skill h2 {
+    margin-bottom: 20px;
+  }
+  
+  .skill-item {
+    margin-bottom: 20px;
+  }
+  
+  .skill-item h3 {
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+  }
+  
+  .skill-progress {
+    height: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+  }
+  
+  .skill-progress-bar {
+    height: 100%;
+    background-color: #3f793d;
+    border-radius: 5px;
+  }
+  

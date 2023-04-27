@@ -1,0 +1,82 @@
+
+
+
+  /* Define the styles for the element when it is hovered over */
+ 
+  
+
+.link{
+    border: 1px solid  #0091d1;
+    background-color:#E5F4FA ;
+    border-radius: 4px;
+    padding: 5px;
+    width:98%;
+    margin: 0 auto;
+}
+.link a{
+    margin-top: 0 auto;
+    font-size: 12px;
+    color: #0091d1;
+    text-decoration: none;
+}
+.link:hover{
+    background-color: rgb(200, 254, 254);
+}
+
+
+@media only screen and (max-width: 1100px) {
+    
+ 
+
+}
+
+
+
+.project-title{
+    display: flex;
+    flex-direction: column;
+    margin: 20px ;
+    font-family:bold;
+}
+
+  
+.Container{
+    background-color: azure;
+    width: 76%;
+    margin: 0 auto;
+
+}
+.copyright{
+    color: #8f8f8f;
+    margin-left: 450px;
+    font-size: 12px;
+}
+
+.foot{
+    float: left;
+    margin-left: 500px;
+
+}
+.foot a img{
+    height: 30px;
+    padding: 3px;
+}
+
+@media screen and (max-width: 814px) {
+   
+    .copyright{
+        color: #8f8f8f;
+        margin-left: 50px;
+        font-size: 12px;
+    }
+    
+    .foot{
+        float: left;
+        margin-left: 50px;
+    
+    }
+    .foot a img{
+        height: 30px;
+        padding: 3px;
+    }
+}

@@ -1,0 +1,19 @@
+.star{
+    border-right: 1px solid gray;
+}
+
+.wifi{ 
+    display: inline-block;
+    height: 150px;
+    width: 95%;
+    margin: 10px;
+    font-size: 12px;
+ }
+
+ .wifi h6{
+    font-size: 20px;
+    font-weight: bolder;
+ }
+
+ 
+ 

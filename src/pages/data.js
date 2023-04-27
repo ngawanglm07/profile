@@ -1,0 +1,98 @@
+export default [
+    {
+        id:1,
+        img:"../img/line.jpg" ,
+        name:"Chatbot",
+        spa:"Major project" ,
+        paragraph:"This application is the lite version of watsapp",
+        location:"Online",
+        open:0 ,
+        Number:1,
+        star:5,
+        link:"https://hilarious-smakager-049095.netlify.app"
+    } , 
+    { 
+        id:2,
+        img:"../img/weather.jpg" ,
+        name:"Weather app" ,
+        spa:"Minor project" ,
+        paragraph:"want to know what's the weather around you give this app a try",
+        location:"Online",
+        open:1 ,
+        Number:2,
+        star:3,
+    } ,
+    {
+        id:3,
+        img:"../img/data.jpg" ,
+        name:"Tindog" ,
+        spa:"dating app desing" ,
+        paragraph:"simple design using css",
+        location:"Online",
+        open:1 ,
+        Number:3,
+        star:3,
+        link:"https://idyllic-zuccutto-8a31be.netlify.app"
+    } , 
+    {
+        id:4,
+        img:"../img/simon.jpg" ,
+        name:"Simon game" ,
+        spa:"Minor project" ,
+        paragraph:"experience simon game like he early 90's made with DOM manipulaion",
+        location:"Online",
+        open:1 ,
+        Number:4,
+        star:3,
+        link:"https://643a318b9f0e634fc6156105--astonishing-tarsier-c9dc2e.netlify.app"
+    },
+    {
+        id:5,
+        img:"../img/security.jpg" ,
+        name:"Authentication and security" ,
+        spa:"Minor project" ,
+        paragraph:"creating a user login and logout session using packages like 0-auth",
+        location:"Online",
+        open:1 ,
+        Number:5,
+        star:3,
+        link:"https://secutirty-google.onrender.com"
+    },
+    {
+        id:6,
+        img:"../img/drumkit.jpg" ,
+        name:"Tune in tonight" ,
+        spa:"Minor project" ,
+        paragraph:"exactly how a virtual drumkit should be",
+        location:"Online",
+        open:1 ,
+        Number:6,
+        star:3,
+        link:"https://643a336b3f8df44f002a7214--fluffy-toffee-df3f6e.netlify.app"
+    },
+    {
+        id:7,
+        img:"../img/notes.jpg" ,
+        name:"Todolist" ,
+        spa:"Minor project" ,
+        paragraph:"set daily goals and complete it with this todolist",
+        location:"Online",
+        open:1 ,
+        Number:7,
+        star:4,
+        link:"https://todolist-ngawanglm.onrender.com"
+    },
+    {
+        id:7,
+        img:"../img/dice2.jpg" ,
+        name:"dice" ,
+        spa:"Minor project" ,
+        paragraph:"click a button roll a dice",
+        location:"Online",
+        open:1 ,
+        Number:8,
+        star:2,
+        link:"https://playful-yeot-d54b7a.netlify.app/"
+    },
+    
+    ]

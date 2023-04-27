@@ -1,0 +1,12 @@
+.carousel{
+    width:650px;
+    height:400px;
+    margin: 30px;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .carousel{
+      width:500px;
+      height:350px;
+    }
+  }
